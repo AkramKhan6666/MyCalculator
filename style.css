@@ -1,0 +1,37 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    width: 66px;
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.row{
+    margin: 8px 0;
+
+}
+  
+.row input{
+    padding: 0%;
+    margin: 0%;
+    border-color: black;
+   padding: 15px 40px;
+   border: 2px solid rgb(12, 12, 12);
+   border-radius: 5px;   
+   font-size: 18px;
+}
+
+.bg-yellow {
+    width: fit-content;
+    border: 5px solid rgb(12, 204, 252);
+    border-radius: 10px;
+}
